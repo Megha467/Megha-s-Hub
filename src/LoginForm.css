@@ -1,0 +1,60 @@
+.signUp{
+background-image: url("https://images.unsplash.com/photo-1551818255-e6e10975bc17?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGF1ZGllbmNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+  position: fixed;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 85%;
+}
+
+form {
+    background-color: white;
+    width: 480px;
+    height: 540px;
+    margin-top: 10px;
+    justify-self: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-left: 255px;
+    margin-right: 205px;
+   margin-bottom: 10px;
+}
+
+.opt{ 
+    width: 100px;
+    margin-left: 40px;
+}
+
+.opt1 {
+width: 400px;
+margin: 10px;
+margin-left: 40px;
+}
+
+.lbl{
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+    color: blue;
+    font-weight: bolder;
+    font-size: 35px;
+    margin-left: 150px;
+}
+input {
+    justify-content: center;
+    border-radius: 10px;
+    width: 400px;
+    height: 30px;
+    margin: 3px;
+    margin-left: 40px;
+}
+hr {
+    margin-left: 5px;
+}
+button {
+    width: 180px;
+   margin-left: 150px; 
+}
+ chk {
+  margin-left: 10px;
+} 
